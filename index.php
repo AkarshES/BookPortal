@@ -7,7 +7,7 @@
     <body>
         <?php
         function test(){
-            echo'test';
+            echo'test1';
         }
         test();
         ?>
